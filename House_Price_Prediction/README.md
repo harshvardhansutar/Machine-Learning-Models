@@ -31,4 +31,6 @@ The blue dots represent the actual house prices from the test set, while the red
 
 ---
 
+<img width="1919" height="1021" alt="Screenshot 2025-07-22 125746" src="https://github.com/user-attachments/assets/151a36b8-8e8e-413f-be58-017d6503be7e" />
+
 
