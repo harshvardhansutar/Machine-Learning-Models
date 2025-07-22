@@ -28,3 +28,7 @@ Evaluating clusters with Silhouette Score
 Each cluster is visually represented with different colors on a 2D plot. This helps retailers understand distinct customer groups and tailor marketing strategies accordingly.
 
 🟢🟡🔵 Every cluster reveals a unique customer segment based on income and spending patterns.
+
+
+![![alt text](image-1.png)](image.png)
+![![alt text](image-3.png)](image-2.png)
