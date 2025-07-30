@@ -12,8 +12,8 @@ from sklearn.metrics import accuracy_score, classification_report
 warnings.filterwarnings("ignore")
 
 # Step 1: Load Data
-data_test = pd.read_csv("P:\\Machine_Learning_Models\\Titanic Dataset EDA\\test.csv")
-data_train = pd.read_csv("P:\\Machine_Learning_Models\\Titanic Dataset EDA\\train.csv")
+data_test = pd.read_csv("P:\\Machine_Learning_Models\\Titanic Dataset Analysis\\test.csv")
+data_train = pd.read_csv("P:\\Machine_Learning_Models\\Titanic Dataset Analysis\\train.csv")
 
 # Store PassengerId before dropping
 test_passenger_ids = data_test['PassengerId']

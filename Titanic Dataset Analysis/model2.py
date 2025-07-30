@@ -12,8 +12,8 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.preprocessing import LabelEncoder
 
 # Step 1: Load data
-train_df = pd.read_csv("P:/Machine_Learning_Models/Titanic Dataset EDA/train.csv")
-test_df = pd.read_csv("P:/Machine_Learning_Models/Titanic Dataset EDA/test.csv")
+train_df = pd.read_csv("P:/Machine_Learning_Models/Titanic Dataset Analysis/train.csv")
+test_df = pd.read_csv("P:/Machine_Learning_Models/Titanic Dataset Analysis/test.csv")
 print("Data loaded successfully.\n")
 
 # Save PassengerId for submission
